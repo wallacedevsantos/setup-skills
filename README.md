@@ -7,10 +7,9 @@ Este repositório contém um script rápido para a instalação de ferramentas e
 Você pode executar o script diretamente via curl sem precisar clonar o repositório inteiro. Use o comando abaixo no seu terminal:
 
 ```bash
-curl -sL https://raw.githubusercontent.com/SEU_USUARIO/setup-skills/main/setup.sh | bash
+curl -sL https://raw.githubusercontent.com/wallacedevsantos/setup-skills/main/setup.sh | bash
 ```
 
-> **Aviso:** Substitua `SEU_USUARIO` pelo seu usuário do GitHub após o push deste repositório.
 
 ## O que o script instala
 
